@@ -1,4 +1,2 @@
-java-war
-========
+# Standard Java servlet WAR config
 
-A standard Java Servlet template for java webapps
